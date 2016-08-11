@@ -1,0 +1,2 @@
+# web-crawler-via-python
+Collected raw data from web scraping technologies, extracted, cleansed and transferred raw data into a format for further analysis  Classified customer reviews into positive or negative reviews from multiple retailor official websites, including BestBuy, Target, eBay and Walmart  Achieved a 0.94 accuracy by implementing different algorithms, including K-NN, Bayes, Logistic Regression, and SVM
